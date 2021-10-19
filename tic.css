@@ -1,0 +1,31 @@
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9{
+    width:80px;
+    height:52px;
+    margin:auto;
+    border:1px solid gray;
+    border-radius:6px;
+    text-align:centre;
+font-size: 30px;
+}
+#but{
+    box-sizing: border-box;
+    width:95px;
+    height:40px;
+    border:1px solid dodgerblue;
+     margin:auto;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: dodgerblue;
+    color:white;
+    cursor: pointer
+}
+
+#print{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: firebrick;
+    font-size: large;
+}
+#main{
+    text-align: center;
+}
